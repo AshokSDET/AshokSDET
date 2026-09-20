@@ -1,78 +1,64 @@
-# 🚀 Ashok | Interested in Software Testing
+# Hi, I’m Ashok 👋
 
-Hi there! I'm Ashok, a **Senior Software Development Engineer in Test (SDET)** passionate about building robust, scalable, and efficient testing solutions. I specialize in bridging the gap between development and quality assurance, ensuring flawless software delivery across diverse systems and platforms.
+### Senior SDET | AI-Assisted Automation | Web, Mobile & API Testing
 
-## 💡 My Philosophy
-"Testing isn’t just a step in the process—it’s the foundation of great software."  
-As an advocate for **continuous improvement** and **quality-first development**, I believe in:  
-- **Automating the routine** to focus on creative challenges.  
-- **Leveraging data** to identify risks and optimize testing strategies.  
-- **Collaborating closely** with cross-functional teams to align quality with business goals.
+I build maintainable automation frameworks and lead end-to-end testing for enterprise applications across web, mobile, APIs, and databases.
 
----
+My work combines hands-on quality engineering with testing leadership. I coordinate with product teams and global stakeholders to align testing priorities, communicate risks, and support release readiness representing the testing team in global discussions.
 
-## 🛠️ My Expertise Toolkit
- **Programming**: Typescript, C#, SQL , Java
-- **Automation Frameworks**: Selenium, Cypress, Tosca, REST Assured, Cucumber (BDD),TDD, Testcafe,   
-- **Test Strategies**: Regression, Functional, API, Front-End, and Back-End Automation  
+I use **Cursor, GitHub Copilot, and OpenAI Codex extensively** in my testing workflow, with a focus on AI-assisted engineering and self-healing test automation.
 
+## Career Highlights
 
-### Tools & Platforms:
-- **Cloud & DevOps**: Azure, Jenkins, CI/CD pipelines  
-- **Databases**: MongoDB, DB2, PostgreSQL 
-- **Collaboration & Test Management**: Jira, TFS, PractiTest, ALM QC,
+- **Automation impact:** Built and deployed end-to-end automation frameworks using Selenium, Cypress, and Tosca, reducing manual testing effort by **70%**.
+- **Testing leadership:** Led end-to-end testing while coordinating with product teams to align coverage with business priorities.
+- **Global collaboration:** Represented the testing team in global discussions on testing progress, quality risks, and release readiness.
+- **Mobile testing:** Performed manual and automated testing of native applications and mobile web experiences.
+- **API automation:** Designed REST Assured test suites to validate service behavior and system integrations.
+- **Database validation:** Developed SQL checks to verify data accuracy across application workflows.
+- **Framework maintainability:** Created reusable automation components to reduce duplication and simplify maintenance.
+- **Enterprise delivery:** Delivered testing solutions for government agencies and Fortune 500 clients, including support for UPS logistics projects across Europe and North America.
 
-### Automation Highlights:
-- Front-End & Back-End Automation  
-- API Testing with REST Assured   
-- Regression & Functional Test Automation  
-- Modular and Framework-Based Scripting  
+## AI-Assisted Quality Engineering
 
-### Agile & Waterfall Expertise:
-- Proficient in managing QA processes across Agile and Waterfall SDLC models.  
-- Adept at collaboration with cross-functional teams to align testing with business objectives.
+AI-assisted testing is a core part of my engineering workflow.
 
----
+- **AI coding tools:** Cursor, GitHub Copilot, and OpenAI Codex.
+- **Areas of focus:** AI-assisted test development and self-healing automation.
+- **Quality principles:** Review generated code, validate assertions against requirements, and preserve the original intent of each test.
+- **Self-healing approach:** Keep automated recovery reviewable so tests can adapt to application changes without hiding genuine defects.
 
-## 🎯 Career Highlights
-- **Built and Deployed**: End-to-end test automation frameworks leveraging tools like Selenium, Cypress, and Tosca, reducing manual efforts by 70%.  
-- **API Automation Success**: Designed reliable API test suites using REST Assured, ensuring system interoperability.  
-- **Optimized Database Validation**: Implemented SQL scripts and queries for seamless database testing.  
-- **Enhanced Efficiency**: Created reusable automation components, reducing test case redundancy and improving maintainability.  
-- **Consulting Expertise**: Delivered critical solutions for Executive branch agencies and Fortune 500 clients.  
+## Technical Toolkit
 
----
+| Area | Technologies & Experience |
+|---|---|
+| **AI-Assisted Engineering** | Cursor, GitHub Copilot, OpenAI Codex |
+| **Languages** | TypeScript, C#, Java, SQL |
+| **UI Automation** | Selenium, Cypress, Tosca, TestCafe |
+| **Mobile Testing** | Native apps, mobile web, manual and automated testing |
+| **API Testing** | REST Assured, integration testing |
+| **Database Testing** | SQL validation, PostgreSQL, MongoDB, DB2 |
+| **CI/CD & Cloud** | Jenkins, Azure |
+| **Testing Practices** | End-to-end, regression, functional testing, BDD, TDD |
+| **Test Management** | Jira, TFS, PractiTest, ALM/QC |
+| **Delivery Methods** | Agile, Waterfall |
 
-## 🏗️ My Open Source Contributions
-- **Automation Framework Templates**: Reusable and scalable frameworks tailored for various test scenarios.  
-- **Sample Test Cases**: Real-world examples of BDD and TDD implementations for Selenium and API testing.  
-- **Performance Scripts**: Tools to measure and optimize test execution performance.  
-- **SQL Snippets**: Powerful SQL scripts for comprehensive database validation.
+## How I Approach Quality
 
-### 🌐 Collaborations:
-- Delivered solutions for **Fortune 500 clients**, helping them achieve zero-defect releases.  
-- Supported high-impact projects, including expanding international logistics systems for UPS across Europe and North America.
+- **Start with business risk:** Prioritize critical user journeys and integration points.
+- **Make automation useful:** Build tests that provide reliable feedback and clear failure reports.
+- **Design for maintenance:** Keep test code readable, reusable, and easy to troubleshoot.
+- **Connect teams:** Align testing with development, product priorities, and release decisions.
+- **Apply AI thoughtfully:** Accelerate engineering while retaining accountability for test quality.
 
----
+## Current Focus
 
-## 🌟 Current Endeavors
-- Expanding expertise in **.NET and C# testing**, focusing on delivering quality for enterprise applications.  
-- Deep-diving into the **C programming language** to refine my systems programming knowledge.
+- Advancing AI-assisted testing and self-healing automation.
+- Deepening my expertise in C# and .NET testing for enterprise applications.
+- Improving the reliability and maintainability of end-to-end automation.
 
----
+## Let’s Connect
 
-## 🤝 Let's Collaborate!
-I'm always open to new opportunities to innovate and create. Let's connect and discuss how we can work together:  
-- [LinkedIn](https://www.linkedin.com/in/ashoksulthan-softwareengineer/)  
-- Email:(ashok.sulthan@hotmail.com)  
+I’m interested in quality engineering, AI-assisted automation, and leading testing across complex enterprise systems.
 
-### 🌍 Beyond Work  
-When I’m not engineering quality, I enjoy:  
-- **Exploring technology** to stay ahead of industry trends.  
-- **Sharing knowledge** with aspiring QA professionals.  
-- **Cooking up creative ideas** whether in code or in the kitchen!
-- **Fitness** working out in gym or swim.
-
----
-
-🌟 *"Quality is never an accident; it is always the result of intelligent effort."* – John Ruskin  
+📫 [Email me](mailto:ashok.sulthan@hotmail.com)
