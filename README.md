@@ -61,4 +61,4 @@ AI-assisted testing is a core part of my engineering workflow.
 
 I’m interested in quality engineering, AI-assisted automation, and leading testing across complex enterprise systems.
 
-📫 [Email me](mailto:ashok.sulthan@hotmail.com)
+📫 [Email me](mailto:ashoksulthan@hotmail.com)
