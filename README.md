@@ -1,64 +1,50 @@
-# Hi, I’m Ashok 👋
+# Ashok Sulthan
 
-### Senior SDET | AI-Assisted Automation | Web, Mobile & API Testing
+**Senior SDET | Quality Engineering | Playwright & TypeScript | Mobile & API Automation | AI-Assisted Testing**
 
-I build maintainable automation frameworks and lead end-to-end testing for enterprise applications across web, mobile, APIs, and databases.
+I build maintainable test automation and help teams release complex software with confidence. I bring **8+ years of quality engineering experience** across enterprise applications, logistics, mobile experiences, APIs, and distributed systems.
 
-My work combines hands-on quality engineering with testing leadership. I coordinate with product teams and global stakeholders to align testing priorities, communicate risks, and support release readiness representing the testing team in global discussions.
+My work spans hands-on framework development, test strategy, CI/CD integration, and collaboration with Product, Engineering, and Operations. I care about the customer impact of a release—not just whether the tests pass.
 
-I use **Cursor, GitHub Copilot, and OpenAI Codex extensively** in my testing workflow, with a focus on AI-assisted engineering and self-healing test automation.
+## Selected engineering work
 
-## Career Highlights
+- **UPS Saturday delivery expansion:** Contributed to the validation of Saturday residential delivery workflows across **eight major European markets** using Playwright automation, API testing, backend validation, shipment tracking checks, and end-to-end scenarios.
+- **Web and API automation:** Developed and maintained automated coverage for business-critical workflows using Playwright, Selenium, REST Assured, and SQL-based data validation.
+- **Mobile and physical-device testing:** Worked with iOS and Android testing using Appium and XCUITest, including physical-device testing and UPS DIAD handheld devices.
+- **Release quality:** Supported regression strategy, defect investigation, release readiness, and automated checks within CI/CD workflows.
+- **AI-assisted engineering:** Use tools such as Cursor, GitHub Copilot, and Claude Code to assist with test development and failure triage, while reviewing generated code, assertions, and results.
 
-- **Automation impact:** Built and deployed end-to-end automation frameworks using Selenium, Cypress, and Tosca, reducing manual testing effort by **70%**.
-- **Testing leadership:** Led end-to-end testing while coordinating with product teams to align coverage with business priorities.
-- **Global collaboration:** Represented the testing team in global discussions on testing progress, quality risks, and release readiness.
-- **Mobile testing:** Performed manual and automated testing of native applications and mobile web experiences.
-- **API automation:** Designed REST Assured test suites to validate service behavior and system integrations.
-- **Database validation:** Developed SQL checks to verify data accuracy across application workflows.
-- **Framework maintainability:** Created reusable automation components to reduce duplication and simplify maintenance.
-- **Enterprise delivery:** Delivered testing solutions for government agencies and Fortune 500 clients, including support for UPS logistics projects across Europe and North America.
+## Technical toolkit
 
-## AI-Assisted Quality Engineering
+| Focus | Technologies and practices |
+| --- | --- |
+| **Automation** | Playwright, Selenium WebDriver, Appium, XCUITest, REST Assured |
+| **Languages** | TypeScript, JavaScript, Java, Python, SQL |
+| **Testing** | UI, API, integration, end-to-end, mobile, accessibility, data validation |
+| **CI/CD and environments** | GitHub Actions, Jenkins, Docker, Kubernetes |
+| **Engineering practices** | Reusable test design, debugging, root-cause analysis, release quality gates |
+| **AI-assisted workflow** | Cursor, GitHub Copilot, Claude Code; human-reviewed test generation and triage |
 
-AI-assisted testing is a core part of my engineering workflow.
+## Portfolio
 
-- **AI coding tools:** Cursor, GitHub Copilot, and OpenAI Codex.
-- **Areas of focus:** AI-assisted test development and self-healing automation.
-- **Quality principles:** Review generated code, validate assertions against requirements, and preserve the original intent of each test.
-- **Self-healing approach:** Keep automated recovery reviewable so tests can adapt to application changes without hiding genuine defects.
+I'm developing this GitHub account into a collection of **original, reproducible quality-engineering projects** that demonstrate how I design, automate, debug, and validate software.
 
-## Technical Toolkit
+- [JavaScript To-Do App](https://github.com/AshokSDET/todo-app) — a small sample application that I plan to expand with Playwright test coverage and CI checks.
+- **Coming next:** a documented Playwright + TypeScript UI/API testing framework with reproducible test runs and GitHub Actions.
 
-| Area | Technologies & Experience |
-|---|---|
-| **AI-Assisted Engineering** | Cursor, GitHub Copilot, OpenAI Codex |
-| **Languages** | TypeScript, C#, Java, SQL |
-| **UI Automation** | Selenium, Cypress, Tosca, TestCafe |
-| **Mobile Testing** | Native apps, mobile web, manual and automated testing |
-| **API Testing** | REST Assured, integration testing |
-| **Database Testing** | SQL validation, PostgreSQL, MongoDB, DB2 |
-| **CI/CD & Cloud** | Jenkins, Azure |
-| **Testing Practices** | End-to-end, regression, functional testing, BDD, TDD |
-| **Test Management** | Jira, TFS, PractiTest, ALM/QC |
-| **Delivery Methods** | Agile, Waterfall |
+> Portfolio examples are independent demonstrations; they are not copies of proprietary employer systems.
 
-## How I Approach Quality
+## How I approach quality
 
-- **Start with business risk:** Prioritize critical user journeys and integration points.
-- **Make automation useful:** Build tests that provide reliable feedback and clear failure reports.
-- **Design for maintenance:** Keep test code readable, reusable, and easy to troubleshoot.
-- **Connect teams:** Align testing with development, product priorities, and release decisions.
-- **Apply AI thoughtfully:** Accelerate engineering while retaining accountability for test quality.
+1. **Start with customer risk.** Identify the workflows and integrations that matter most.
+2. **Build trustworthy feedback.** Keep tests readable, deterministic, and useful when they fail.
+3. **Test beyond the UI.** Validate API behavior, backend data, device conditions, and end-to-end outcomes.
+4. **Collaborate early.** Work with Product and Engineering on acceptance criteria, trade-offs, and release readiness.
+5. **Use AI with verification.** Treat generated tests and diagnoses as hypotheses to review—not as unquestioned results.
 
-## Current Focus
+## Connect
 
-- Advancing AI-assisted testing and self-healing automation.
-- Deepening my expertise in C# and .NET testing for enterprise applications.
-- Improving the reliability and maintainability of end-to-end automation.
+- [LinkedIn](https://www.linkedin.com/in/ashoksulthan-softwarequalityengineer/)
+- [GitHub](https://github.com/AshokSDET)
 
-## Let’s Connect
-
-I’m interested in quality engineering, AI-assisted automation, and leading testing across complex enterprise systems.
-
-📫 [Email me](mailto:ashok.sulthan@hotmail.com)
+I'm interested in **Senior SDET, Quality Engineering Lead, and Test Automation Architect** opportunities where hands-on engineering and product thinking come together.
